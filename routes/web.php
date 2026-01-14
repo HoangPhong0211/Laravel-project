@@ -2,6 +2,11 @@
 use App\Http\Controllers\Admin\CategoryController;
 use Illuminate\Support\Facades\Route;
 
+//Minh
+
+//Phú
+
+//Phong
 Route::get('/', function () {
     return view('welcome');
 });
