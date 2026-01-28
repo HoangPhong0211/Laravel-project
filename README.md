@@ -1,7 +1,5 @@
 #  ĐỒ ÁN WEBSITE BÁN QUẦN ÁO
 
-Đây là quy hoạch code của nhóm, đề nghị tuân thủ để tránh conflict:
-
 ---
 
 ### Minh: CORE SYSTEM & AUTH (Trưởng Nhóm Kỹ Thuật)
@@ -34,8 +32,3 @@
     * `public/assets/admin/`
 
 ---
-
-## ⚠️ LƯU Ý QUAN TRỌNG
-1.  **Pull trước khi làm:** Luôn chạy `git pull origin main` đầu buổi.
-2.  **Không sửa file của người khác:** Nếu cần sửa, hãy hú nhau một tiếng.
-3.  **Route:** Viết đúng vào khu vực đã chia trong `routes/web.php`.
